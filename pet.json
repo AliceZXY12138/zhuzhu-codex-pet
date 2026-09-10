@@ -1,0 +1,17 @@
+{
+  "id": "zhuzhu",
+  "displayName": "出竹嗷呜",
+  "description": "出竹是一只生活在燕园的流浪猫，他又凶又胖又怂，我们超爱他。",
+  "spritesheetPath": "spritesheet.webp",
+  "spriteVersionNumber": 2,
+  "version": "v001",
+  "author": "Alice",
+  "tags": [
+    "cat",
+    "tabby",
+    "custom",
+    "flat-illustration"
+  ],
+  "source": "github",
+  "sourceUrl": "https://github.com/AliceZXY12138/zhuzhu-codex-pet"
+}
