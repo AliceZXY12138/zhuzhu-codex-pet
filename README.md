@@ -70,7 +70,7 @@ Codex 运行时只需要：
 
 推荐署名：
 
-> Zhuzhu / 出竹嗷呜 by Alice — CC BY-NC-ND 4.0
+> Zhuzhu / 出竹嗷呜 by 橙子じん & Alice — CC BY-NC-ND 4.0
 > https://github.com/AliceZXY12138/zhuzhu-codex-pet
 
 完整条款请参阅 [`LICENSE`](LICENSE) 和 [Creative Commons 官方法律文本](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-hans)。
